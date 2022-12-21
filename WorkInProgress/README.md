@@ -36,7 +36,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Hands-on: Criando a Tela de Login](https://web.dio.me/lab/formulario/learning/e883e943-b031-4e5b-a2dd-4a435c6491f9)[Entendendo o Desafio](https://web.dio.me/lab/formulario/learning/43d07465-427c-4f23-a83d-d51020167a63)
+- [Hands-on: Criando a Tela de Login](https://web.dio.me/lab/formulario/learning/e883e943-b031-4e5b-a2dd-4a435c6491f9)
+- [Entendendo o Desafio](https://web.dio.me/lab/formulario/learning/43d07465-427c-4f23-a83d-d51020167a63)
 
 
 
